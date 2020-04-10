@@ -1,0 +1,9 @@
+02 068 01 [T'] B ИCXOДE OCHOBЫ ПEPEД ГЛACHЫMИ ПEPEДHEГO PЯДA ПOCЛE ГЛACHЫX ИЛИ TBEPДЫXCOГЛACHЫX: PУ\[T']И, ПA\Л[T']И И T.П. OДИH ПPИMEP
+02 068 02 [T'] B ИCXOДE OCHOBЫ ПEPEД ГЛACHЫMИ ПEPEДHEГO PЯДA ПOCЛE ГЛACHЫX ИЛИ TBEPДЫXCOГЛACHЫX: PУ\[T']И, ПA\Л[T']И И T.П.ДBA - ЧETЫPE ПPИMEPA
+02 068 03 [T'] B ИCXOДE OCHOBЫ ПEPEД ГЛACHЫMИ ПEPEДHEГO PЯДA ПOCЛE ГЛACHЫX ИЛИ TBEPДЫXCOГЛACHЫX: PУ\[T']И, ПA\Л[T']И И T.П.ПЯTЬ И БOЛEE ПPИMEPOB
+02 068 04 [T'] B HAЧAЛE ИЛИ CEPEДИHE OCHOBЫ: [T']И\CЛЫЙ, C[T']ИPДA\ И T.П. OДИH ПPИMEP
+02 068 05 [T'] B HAЧAЛE ИЛИ CEPEДИHE OCHOBЫ: [T']И\CЛЫЙ, C[T']ИPДA\ И T.П. ДBA - TPИ ПPИMEPA
+02 068 06 [T'] B HAЧAЛE ИЛИ CEPEДИHE OCHOBЫ: [T']И\CЛЫЙ, C[T']ИPДA\ И T.П. ЧETЫPE И БOЛEE ПPИMEPOB
+02 068 07 [T'] B ИCXOДE OCHOBЫ ПOCЛE MЯГKИX COГЛACHЫX ПEPEД ЭTИMOЛOГИЧECKИMИ ГЛACHЫMИ HEПEPEДHEГO PЯДA: BA\HЬ[T']A, ЧAЙ[T']У\ И T.П. OДИH ПPИMEP
+02 068 08 [T'] B ИCXOДE OCHOBЫ ПOCЛE MЯГKИX COГЛACHЫX ПEPEД ЭTИMOЛOГИЧECKИMИ ГЛACHЫMИ HEПEPEДHEГO PЯДA: BA\HЬ[T']A, ЧAЙ[T']У\ И T.П. ДBA - ЧETЫPE ПPИMEPA
+02 068 09 [T'] B ИCXOДE OCHOBЫ ПOCЛE MЯГKИX COГЛACHЫX ПEPEД ЭTИMOЛOГИЧECKИMИ ГЛACHЫMИ HEПEPEДHEГO PЯДA: BA\HЬ[T']A, ЧAЙ[T']У\ И T.П. ПЯTЬ И БOЛEE ПPИMEPOB

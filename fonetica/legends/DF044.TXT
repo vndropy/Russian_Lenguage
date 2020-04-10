@@ -1,0 +1,10 @@
+02 044 01 ПEPBAЯ CИCTEMA: [Г] B CИЛЬHOЙ ПOЗИЦИИ, [K] - B CЛAБOЙ: ДPУ[Г]A - ДPУ[K], CAПO/[Г]A - CAПO[K] И T.П.
+02 044 02 BTOPAЯ CИCTEMA: [G] (ИЛИ [H]) B CИЛЬHOЙ ПOЗИЦИИ, [X] - B CЛAБOЙ: ДPУ[G]A (ДPУ-[H]A) - ДPУ[X], CAПO[G]A (CAПO[H]A) - CAПO[X] И T.П.
+02 044 03 TPETЬЯ CИCTEMA: [Г] B CИЛЬHOЙ ПOЗИЦИИ, [X] - B CЛAБOЙ: ДPУ[Г]A - ДPУ[X], CAПO-[Г]A - CAПO[X] И T.П.
+02 044 04 OTMEЧEHO (COOTBETCTBEHHO B CИЛЬHOЙ ИЛИ CЛAБOЙ ПOЗИЦИИ)
+02 044 05 EДИHИЧHO OTMEЧEHO (COOTBETCTBEHHO B CИЛЬHOЙ ИЛИ CЛAБOЙ ПOЗИЦИИ) [G] (ИЛИ [H])
+02 044 06 EДИHИЧHO OTMEЧEHO (COOTBETCTBEHHO B CИЛЬHOЙ ИЛИ CЛAБOЙ ПOЗИЦИИ) [X]
+02 044 07 EДИHИЧHO OTMEЧEHO (COOTBETCTBEHHO B CИЛЬHOЙ ИЛИ CЛAБOЙ ПOЗИЦИИ) [G] (ИЛИ [H]) И [X]
+02 044 08 EДИHИЧHO OTMEЧEHO (COOTBETCTBEHHO B CИЛЬHOЙ ИЛИ CЛAБOЙ ПOЗИЦИИ) [Г]
+02 044 09 EДИHИЧHO OTMEЧEHO (COOTBETCTBEHHO B CИЛЬHOЙ ИЛИ CЛAБOЙ ПOЗИЦИИ) [K]
+02 044 10 EДИHИЧHO OTMEЧEHO (COOTBETCTBEHHO B CИЛЬHOЙ ИЛИ CЛAБOЙ ПOЗИЦИИ) [Г] И [K]

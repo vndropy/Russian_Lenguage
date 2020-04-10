@@ -1,0 +1,14 @@
+02 004 01 ПEPEД TBEPДЫMИ COГЛACHЫMИ [O]: [H'O]CЛA\, C[B'O]KPO\BЬ, [H'O]CУ\T И T.П.
+02 004 02 ПEPEД TBEPДЫMИ COГЛACHЫMИ [O] И [E]
+02 004 03 ПEPEД TBEPДЫMИ COГЛACHЫMИ [E], EДИHИЧHO [O]
+02 004 04 ПEPEД TBEPДЫMИ COГЛACHЫMИ [E]: [H'E]CЛA\, C[B'E]KPO\BЬ, [H'E]CУ\T И T.П.
+02 004 05 ПEPEД TBEPДЫMИ COГЛACHЫMИ [O], HO TOЛЬKO [E] (PEДKO [И]) B ЛИЧHЫX ФOPMAX ГЛAГOЛOB TИПA ПEЧЬ И TИПA HECTИ: [H'O]CЛA\, C[B'O]KPO\BЬ И T.П., HO [П'E]KУ\, [H'E]CУ\T И T.П.
+02 004 06 ПEPEД TBEPДЫMИ COГЛACHЫMИ [E], EДИHИЧHO [O], HO TOЛЬKO [E] B ЛИЧHЫX ФOPMAX ГЛAГOЛOB TИПA ПEЧЬ И TИПA HECTИ:
+02 004 07 ПEPEД TBEPДЫMИ COГЛACHЫMИ [O], HO ПPEИMУЩECTBEHHO [E] B ЛИЧHЫX ФOPMAX ГЛAГOЛOB TИПA ПEЧЬ И TИПA HECTИ:
+02 004 08 ПEPEД TBEPДЫMИ COГЛACHЫMИ [O] И [E], HO ПPEИMУЩECTBEHHO [E] B ЛИЧHЫX ФOPMAX ГЛAГOЛOB TИПA ПEЧЬ И TИПA HECTИ:
+02 004 09 ПEPEД TBEPДЫMИ COГЛACHЫMИ [E], HO EДИHИЧHO [O] TOЛЬKO ПEPEД УДAPEHHЫM O: [C'E]CTPA\, [H'E]CУ\T И T.П., HO C[B'E]KPO\BЬ И C[B'O]KPO\BЬ И T.П.
+02 004 10 ПEPEД TBEPДЫMИ COГЛACHЫMИ OTMEЧEH [И]: [C'И]CTPA\, [H'И]CУ\ И T.П.
+02 004 11 ПEPEД MЯГKИMИ COГЛACHЫMИ [И] (BOЗMOЖHO EДИHИЧHO [E]): [H'И]CИ\, [T'И]ЛE\HOK И T.П.
+02 004 12 ПEPEД MЯГKИMИ COГЛACHЫMИ [И] И [E]: [H'И]CИ\, [T'И]ЛE\HOK И T.П., [H'E]CИ\, [T'E]ЛE\HOK И T.П.
+02 004 13 ПEPEД MЯГKИMИ COГЛACHЫMИ [E], EДИHИЧHO [И]
+02 004 14 ПEPEД MЯГKИMИ COГЛACHЫMИ [E]

@@ -1,0 +1,11 @@
+02 056 01 [B] ПEPEД ЗBOHKИMИ , [Ф] ПEPEД ГЛУXИMИ : ПPA\[B]ДA, ДA[B]HO\ И T.П.; TPA\[Ф]KA, O[Ф]CA\ И T.П.
+02 056 02 [B] ПEPEД ЗBOHKИMИ
+02 056 03 [Ф] ПEPEД ГЛУXИMИ
+02 056 04 [B] ПEPEД ЗBOHKИMИ И ПEPEД ГЛУXИMИ : ПPA\[B]ДA, ДA[B]HO\ И T.П.; TPA\[B]KA, O[B]CA\ И T.П.
+02 056 05 [W] ПEPEД ЗBOHKИMИ И ПEPEД ГЛУXИMИ : ПPA\[W]ДA, ДA[W]HO\ И T.П.; TPA\[W]KA, O[W]CA\ И T.П.
+02 056 06 [W] ПEPEД ЗBOHKИMИ
+02 056 07 [W] ПEPEД ГЛУXИMИ
+02 056 08 [У?] ПEPEД ЗBOHKИMИ И ПEPEД ГЛУXИMИ : ПPA\[У?]ДA, ДA[У?]HO\ И T.П.; TPA\[У?]KA, O[У?]CA\ И T.П.
+02 056 09 [У?] ПEPEД ЗBOHKИMИ
+02 056 10 [У?] ПEPEД ГЛУXИMИ
+02 056 11 [X] ПEPEД ГЛУXИMИ

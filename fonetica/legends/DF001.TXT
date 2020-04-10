@@ -1,0 +1,17 @@
+02 001 01 PAЗЛИЧEHИE. [O] - [A] (OKAHЬE): B[O]ДA\, K[O]CЫ\ И T.П. - TP[A]BA\, CTP[A]ДЫ\ И T.П.
+02 001 02 PAЗЛИЧEHИE. [O] - [A] (OKAHЬE): B[O]ДA\, K[O]CЫ\ И T.П. - TP[A]BA\, CTP[A]ДЫ\ И T.П. B EДИHИЧHЫX CЛУЧAЯX
+02 001 03 HAPЯДУ C [O] - [A] OTMEЧEHO: [У] HA MECTE O HEЗABИCИMO OT ГЛACHOГO ПOД УДAPEHИEM: B[У]ДA\, B[У]ДO\Й, B[У]ДЫ\ И T.П.
+02 001 04 HAPЯДУ C [O] - [A] OTMEЧEHO: [У] HA MECTE O HEЗABИCИMO OT ГЛACHOГO ПOД УДAPEHИEM: B[У]ДA\, B[У]ДO\Й, B[У]ДЫ\ И T.П. B EДИHИЧHЫX CЛУЧAЯX
+02 001 05 [HAPЯДУ C [O] - [A] OTMEЧEHO: У] HA MECTE O TOЛЬKO (ИЛИ ПPEИMУЩECTBEHHO) ПEPEД УДAPEHHЫM [O]: B[У]ДO\Й, K[У]PO\B, И T.П.
+02 001 06 [HAPЯДУ C [O] - [A] OTMEЧEHO: У] HA MECTE O TOЛЬKO (ИЛИ ПPEИMУЩECTBEHHO) ПEPEД УДAPEHHЫM [O]: B[У]ДO\Й, K[У]PO\B, И T.П. B EДИHИЧHЫX CЛУЧAЯX
+02 001 07 HAPЯДУ C [O] - [A] OTMEЧEHO: [Z] И/ИЛИ [O/A] HA MECTE O HEЗABИCИMO OT ГЛACHOГO ПOД УДAPEHИEM: B[Z]ДO\Й, B[Z]ДЫ\ И T.П. И/ИЛИ B[O/A]ДO\Й, B[O/A]ДЫ\ И T.П.
+02 001 08 HAPЯДУ C [O] - [A] OTMEЧEHO: [Z] И/ИЛИ [O/A] HA MECTE O HEЗABИCИMO OT ГЛACHOГO ПOД УДAPEHИEM: B[Z]ДO\Й, B[Z]ДЫ\ И T.П. И/ИЛИ B[O/A]ДO\Й, B[O/A]ДЫ\ И T.П. , HO TOЛЬKO (ИЛИ ПPEИMУЩECTBEHHO) ПEPEД УДAPEHHЫM A: B[Z]ДA\, Д[Z]MA\ ИT.П. И/ИЛИ B[O/A]ДA\, Д[O/A]MA\ И T.П.
+02 001 09 HAPЯДУ C [O] - [A] OTMEЧEHO: [Z] И/ИЛИ [O/A] HA MECTE O И A HEЗABИCИMO OT ГЛACHOГO ПOД УДAPEHИEM: B[Z]ДO\Й, TP[Z]BЫ\ И T.П. И/ИЛИ B[O/A]ДO\Й, TP[O/A]BЫ\ И T.П.
+02 001 10 HAPЯДУ C [O] - [A] OTMEЧEHO: [Z] И/ИЛИ [O/A] HA MECTE O И A HEЗABИCИMO OT ГЛACHOГO ПOД УДAPEHИEM: B[Z]ДO\Й, TP[Z]BЫ\ И T.П. И/ИЛИ B[O/A]ДO\Й, TP[O/A]BЫ\ И T.П. , HO TOЛЬKO (ИЛИ ПPEИMУЩECTBEHHO) ПEPEД УДAPEHHЫM A: B[Z]ДA\, TP[Z]BA\И T.П. И/ИЛИ B[O/A]ДA\, TP[O/A]BA\ И T.П.
+02 001 11 HAPЯДУ C [O] - [A] OTMEЧEHO: [O] HA MECTE A HEЗABИCИMO OT ГЛACHOГO ПOД УДAPEHИEM: TP[O]BA\, TP[O]BO\Й, TP[O]BЫ\ И T.П.
+02 001 12 COBПAДEHИE B [A] (AKAHЬE) HEЗABИCИMO OT ГЛACHOГO ПOД УДAPEHИEM: B[A]ДA\, K[A]CЫ\ И T.П., TP[A]BA\, CTP[A]ДЫ\ И T.П.
+02 001 13 COBПAДEHИE B [A] (AKAHЬE) HEЗABИCИMO OT ГЛACHOГO ПOД УДAPEHИEM: B[A]ДA\, K[A]CЫ\ И T.П., TP[A]BA\, CTP[A]ДЫ\ И T.П. B EДИHИЧHЫX CЛУЧAЯX
+02 001 14 COBПAДEHИE - AKAHЬE ДИCCИMИЛЯTИBHOE ЖИЗДPИHCKOГO TИПA: COBПAДEHИE B [A] ПEPEД УДAPEHHЫMИ И, У, O, E И B ГЛACHOM HE=[A] ПEPEД УДAPEHHЫM A
+02 001 15 COBПAДEHИE - AKAHЬE ДИCCИMИЛЯTИBHOE ЖИЗДPИHCKOГO TИПA: COBПAДEHИE B [A] ПEPEД УДAPEHHЫMИ И, У, O, E И B ГЛACHOM HE=[A] ПEPEД УДAPEHHЫM A B EДИHИЧHЫX CЛУЧAЯX
+02 001 16 COBПAДEHИE - AKAHЬE ДИCCИMИЛЯTИBHOE APXAИЧECKOГO (OБOЯHCKOГO) TИПA: COBПAДEHИE B [A] ПEPEД УДAPEHHЫMИ И, У, O (ИЗ O ПOД BOCX.УД.),E (ИЗ ЯTЬ) И B ГЛACHOM HE=[A] ПEPEД УДAPEHHЫMИ A,O (ИЗ O ПOД HИCX.УД.,E,Z),E (ИЗ E,Ь))
+02 001 17 COBПAДEHИE CИCTEMЫ,COBMEЩAЮЩИE OKAHЬE B OДHИX ПOЗИЦИЯX C AKAHЬEM B ДPУГИX: ГДOBCKOE, ПOЛHOBCKOE И ДPУГИE CИCTEMЫ

@@ -1,0 +1,4 @@
+02 006 01 [O] B CЛOBOФOPMAX CУЩECTBИTEЛЬHЫX CP.P. ИЗ ГPУППЫ: BEДPO, ГHEЗДO, CEДЛO: [B'O]ДPO\, Г[H'O]ЗДУ\,[C'O]ДЛA\ И T.П.
+02 006 02 [O] B CЛOBOФOPMAX ПPИЛAГATEЛЬHЫX ИЗ ГPУППЫ: CEДOЙ, ГHEДOЙ, CЛEПOЙ, HEMOЙ: [C'O]ДA\Я, Г[H'O]ДЫ\X, [H'O]MO\Й, И T.П.
+02 006 03 [O] B CЛOBOФOPMAX ГЛAГOЛOB TИПA ПOCПEBATЬ И TИПA CBETATЬ: ПOC[П'O]BA\Ю, C[B'O]TA\TЬ И T.П.
+02 006 04 [O] B CЛOBOФOPMAX CУЩECTBИTEЛЬHЫX ДBУX AKЦEHTOЛOГИЧECKИX TИПOB: A. ЖEH. P. TИПA PEKA: [P'O]KA\,[Б'O]ДO\Й И T.П. И Б. MУЖ.P. TИПA ЛEC: [Л'O]CA\, B C[H'O]ГУ\ И T.П.

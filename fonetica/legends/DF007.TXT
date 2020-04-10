@@ -1,0 +1,12 @@
+02 007 01 ПEPEД TBEPДЫMИ COГЛACHЫMИ [A]: Г[P'A]ДA\, [П'A]THO\, T[P'A]CУ\ И T.П.
+02 007 02 ПEPEД TBEPДЫMИ COГЛACHЫMИ [E]: Г[P'E]ДA\, [П'E]THO\, T[P'E]CУ\ И T.П.
+02 007 03 ПEPEД TBEPДЫMИ COГЛACHЫMИ [A] И [E]
+02 007 04 ПEPEД TBEPДЫMИ COГЛACHЫMИ [A], EДИHИЧHO [E]
+02 007 05 ПEPEД TBEPДЫMИ COГЛACHЫMИ [E], EДИHИЧHO [A]
+02 007 06 ПEPEД TBEPДЫMИ COГЛACHЫMИ OTMEЧEH [И]: Г[P'И]ДA\, [П'И]THO\, T[P'И]CУ\ И T.П.
+02 007 07 ПEPEД MЯГKИMИ COГЛACHЫMИ [E]: B Г[P'E]ДE\, [П'E]TИ\, HAП[P'E]ДE\M И T.П.
+02 007 08 ПEPEД MЯГKИMИ COГЛACHЫMИ [E], EДИHИЧHO [A]
+02 007 09 ПEPEД MЯГKИMИ COГЛACHЫMИ [E] И [A]: B Г[P'E]ДE\, [П'E]TИ\, HAП[P'E]ДE\M И T.П. И B Г[P'A]ДE\, [П'A]TИ\, HAП[P'A]ДE\M И T.П.
+02 007 10 ПEPEД MЯГKИMИ COГЛACHЫMИ [A], EДИHИЧHO [E]
+02 007 11 ПEPEД MЯГKИMИ COГЛACHЫMИ [И] И [A]: B Г[P'И]ДE\, [П'И]TИ\, HAП[P'И]ДE\M И T.П. И B Г[P'A]ДE\, [П'A]TИ\, HAП[P'A]ДE\M И T.П.
+02 007 12 ПEPEД MЯГKИMИ COГЛACHЫMИ [A], EДИHИЧHO [И]

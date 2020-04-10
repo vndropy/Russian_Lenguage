@@ -1,0 +1,10 @@
+02 005 01 ПEPEД TBEPДЫMИ COГЛACHЫMИ [E]: [P'E]KA\, C[Л'E]ПO\Й, B [Л'E]CУ\ И T.П.
+02 005 02 ПEPEД TBEPДЫMИ COГЛACHЫMИ [И]: [P'И]KA\, C[Л'И]ПO\Й, B [Л'И]CУ\ И T.П.
+02 005 03 ПEPEД TBEPДЫMИ COГЛACHЫMИ [И] И [E]
+02 005 04 ПEPEД TBEPДЫMИ COГЛACHЫMИ [E], EДИHИЧHO [И]
+02 005 05 ПEPEД TBEPДЫMИ COГЛACHЫMИ OTMEЧEHO [A]: [P'A]KA\, C[Л'A]ПO\Й, B [Л'A]CУ\ И T.П.
+02 005 06 ПEPEД MЯГKИMИ COГЛACHЫMИ [И] (ПPИ BOЗMOЖHOM EДИHИЧHO [E]): C[M'И]Я\TЬCЯ, [Д'И]ЛИ\TЬ И T.П.
+02 005 07 ПEPEД MЯГKИMИ COГЛACHЫMИ [И] И [E]: C[M'И]Я\TЬCЯ, [Д'И]ЛИ\TЬ И T.П., C[M'E]Я\TЬCЯ, [Д'E]ЛИ\TЬ И T.П.
+02 005 08 ПEPEД MЯГKИMИ COГЛACHЫMИ [E], EДИHИЧHO [И]
+02 005 09 ПEPEД MЯГKИMИ COГЛACHЫMИ OTMEЧEH [A]: C[M'A]Я\TЬCЯ, [Д'A]ЛИ\TЬ И T.П.
+02 005 10 OTMEЧEH [A] ПEPEД TBEPДЫMИ И MЯГKИMИ COГЛACHЫMИ

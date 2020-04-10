@@ -1,0 +1,4 @@
+02 059 01 [B], [Ф] И/ИЛИ [W] И/ИЛИ [У?] B COOTBETCTBИИ C БEЗУДAPHЫM У B HAЧAЛE CЛOBA : [B]METЬ, [B] OTЦA\ (У OTЦA), [Ф]TЮГ И T.П. И/ИЛИ [W]METЬ, [W] OTЦA\, [W]TЮГ И T.П. И/ИЛИ [У?]METЬ, [У?] OTЦA\, [У?]TЮГ И T.П.
+02 059 02 УB, УBO HA MECTE ПPEДЛOГOB И ПPИCTABOK B И У : [УB] A\PMИЮ, [УФ] TPИ, [УBA] CHE\, [УBA] AЛE..HЫ, [УBA] ШЛИ\,[УB]ЛEЗTЬ И T.П.
+02 059 03 BO HA MECTE ПPEДЛOГOB И ПPИCTABOK B И У : [BO]БPA\ЛИ (УБPAЛИ), [BO]ЙДИ (УЙДИ) И T.П.
+02 059 04 УB, УBO HA MECTE ПPEДЛOГOB И ПPИCTABOK B И У TOЛЬKO C ФOPMAMИ KOCBEHHЫX ПAДEЖEЙ MECTOИMEHИЯ BECЬ : [УBA] BCEX\, [УBA] BCE.. И T.П.

@@ -1,0 +1,17 @@
+02 057 01 [B] ПEPEД ЗBOHKИMИ : [B]PE\MЯ, [B]ДOBA\ И T.П.; [Ф] ПEPEД ГЛУXИMИ : [Ф]CEX, [Ф]TO\PHИK И T.П.
+02 057 02 [B] ПEPEД ЗBOHKИMИ И ПEPEД ГЛУXИMИ : [B]PE\MЯ, [B]ДOBA\ И T.П. И [B]CEX, [B]TO\PHИK И T.П.
+02 057 03 [W] ПEPEД ЗBOHKИMИ И ПEPEД ГЛУXИMИ : [W]PE\MЯ, [W]ДOBA\ И T.П. И [W]CEX, [W]TO\PHИK И T.П.
+02 057 04 [У?] ПEPEД ЗBOHKИMИ И ПEPEД ГЛУXИMИ : [У?]PE\MЯ, [У?]ДOBA\ И T.П. И [У?]CEX, [У?]TO\PHИK И T.П.
+02 057 05 [У] ПEPEД ЗBOHKИMИ И ПEPEД ГЛУXИMИ : [У]PE\MЯ, [У]ДOBA\ И T.П. И [У]CEX, [У]TO\PHИK И T.П.
+02 057 06 [B] ПEPEД ЗBOHKИMИ
+02 057 07 [Ф] ПEPEД ГЛУXИMИ
+02 057 08 [W] ПEPEД ЗBOHKИMИ
+02 057 09 [W] ПEPEД ГЛУXИMИ
+02 057 10 [У?] ПEPEД ЗBOHKИMИ
+02 057 11 [У?] ПEPEД ГЛУXИMИ
+02 057 12 TOЛЬKO [У]ДOBA\
+02 057 13 TOЛЬKO [У]HУ\K
+02 057 14 [G] (PEЖE [Г]) ПEPEД ЗBOHKИMИ ГУБHЫMИ И M : [G] MOCKBE\, [G] БOЛЬHИ\ЦУ И T.П.
+02 057 15 [G] (PEЖE [Г]) ПEPEД ЗBOHKИMИ HEГУБHЫMИ: [G] BO\ДУ, [G] PИ\ГAX И T.П.
+02 057 16 [X] ПEPEД ГЛУXИMИ ГУБHЫMИ: [X] ПO\ЛE, [X]ПEPE..Д И T.П.
+02 057 17 [X] ПEPEД ГЛУXИMИ HEГУБHЫMИ: [X] CAT, [X] ЦE\PKOBЬ И T.П.

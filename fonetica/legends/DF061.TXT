@@ -1,0 +1,6 @@
+02 061 01 L "CPEДHEE" TOЛЬKO ПEPEД ГЛACHЫMИ HEПEPEДHEГO PЯДA : [L]УK, [L]Ы\KO, XA[L]A\T И T.П.
+02 061 02 L "CPEДHEE" ПEPEД ГЛACHЫMИ HEПEPEДHEГO PЯДA : [L]УK, [L]Ы\KO, XA[L]A\T, A TAKЖE ПEPEД COГЛACHЫMИ И HA KOHЦE CЛOBA : ПA\[L]KA, CTO[L]Б И T.П.; ПOШE\[L], CTO[L] И T.П.
+02 061 03 У? (W) ПEPEД COГЛACHЫMИ : B CTAPЫX COЧETAHИЯX PEДУЦИPOBAHHOГO C ПЛABHЫM И B CУЩECTBИTEЛЬHЫX C УTPAЧEHHЫM PEДУЦИPOBAHHЫM ПEPEД CУФФИKCOM =ZK= : BO[У?]K (BO[W]K), ДO\[У?]ГO (ДO\[W]ГO) И T.П.; ПA\[У?]KA (ПA\[W]KA), ИГO\[У?]KA (ИГO\[W]KA) И T.П.
+02 061 04 У? (W) ПEPEД COГЛACHЫMИ : TOЛЬKO B CTAPЫX COЧETAHИЯX PEДУЦИPOBAHHOГO C ПЛABHЫM : BO[У?]K (BO[W]K), ДO\[У?]ГO (ДO\[W]ГO) И T.П.
+02 061 05 У? (W) HA KOHЦE CЛOBA : B ФOPMAX ПPOШEДШEГO BPEMEHИ ГЛAГOЛOB, A TAKЖE B ФOPMAX CУЩECTBИTEЛЬHЫX И KPATKИX ПPИЛAГATEЛЬHЫX : ПOШE\[У?] (ПOШE\[W]), УПA\[У?] (УПA\[W]), ПO[У?] (ПO[W]), MA[У?] (MA[W]) И T.П.
+02 061 06 У? (W) HA KOHЦE CЛOBA : TOЛЬKO B ФOPMAX ГЛAГOЛOB ПPOШEДШEГO BPEMEHИ : ПOШE\[У?] (ПOШE\[W]), УПA\[У?] (УПA\[W]) И T.П.

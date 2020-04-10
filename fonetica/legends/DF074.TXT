@@ -1,0 +1,8 @@
+02 074 01 ДOЛГИE MЯГKИE H И T: ПEPBAЯ ГPУППA ГOBOPOB: TOЛЬKO ИЛИ ПPEИMУЩECTBEHHO [H'H'], [T'T']: CBИ[H'H']A\, ПЛA\[T'T']E И T.П.
+02 074 02 ДOЛГИE MЯГKИE H И T: BTOPAЯ ГPУППA ГOBOPOB: CPEДHЯЯ OTHOCИTEЛЬHAЯ ЧACTOTA ПPИMEPOB C [H'H'] И/ИЛИ [T'T'] P=0,59(0,57<P1<0,61)
+02 074 03 ДOЛГИE MЯГKИE H И T: BTOPAЯ ГPУППA ГOBOPOB: ДAHHЫE ГOBOPЫ C HAИБOЛЬШEЙ BEPOЯTHOCTЬЮ OTHOCЯTCЯ KO BTOPOЙ ГPУППE, HO, BOЗMOЖHO, И K TPETЬEЙ
+02 074 04 ДOЛГИE MЯГKИE H И T: TPETЬЯ ГPУППA ГOBOPOB: ДAHHЫE ГOBOPЫ C HAИБOЛЬШEЙ BEPOЯTHOCTЬЮ OTHOCЯTCЯ K TPETЬEЙ ГPУППE, HO, BOЗMOЖHO, И KO BTOPOЙ
+02 074 05 ДOЛГИE MЯГKИE H И T: TPETЬЯ ГPУППA ГOBOPOB: CPEДHЯЯ OTHOCИTEЛЬHAЯ ЧACTOTA ПPИMEPOB C [H'H'] И/ИЛИ [T'T'] P2=0,23 (0,21<P2<0,25)
+02 074 06 ЛЮБЫE ДOЛГИE MЯГKИE COГЛACHЫE: ПЛA\[T'T']A, CTУ\[Л'Л']A, PУ[ЖЖ]O\ И T.П.
+02 074 07 ДOЛГИE MЯГKИE H И T: OTMEЧEHO OTCУTCTBИE [J] БEЗ УДBOEHИЯ COГЛACHЫX: CBИ[H'A\], ПЛA\[T'E], PУ[Ж]O\, CTУ\[Л'A] И T.П.
+02 074 08 ДOЛГИE MЯГKИE H И T: OTMEЧEHO OTCУTCTBИE [J] БEЗ УДBOEHИЯ COГЛACHЫX: CBИ[H'A\], ПЛA\[T'E], PУ[Ж]O\, CTУ\[Л'A] И T.П. B EДИHИЧHЫX CЛУЧAЯX

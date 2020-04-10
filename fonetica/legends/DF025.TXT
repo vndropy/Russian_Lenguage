@@ -1,0 +1,11 @@
+02 025 01 PAЗЛИЧEHИE; HA MECTE E - [O], HA MECTE И - [И]: BЫ\[H'O]C, BЫ\[П'И]Л И T.П.
+02 025 02 PAЗЛИЧEHИE; HA MECTE E - [E], HA MECTE И - [И]: BЫ\[H'E]C, BЫ\[П'И]Л И T.П.
+02 025 03 PAЗЛИЧEHИE; HA MECTE E - [A], HA MECTE И - [И]: BЫ\[H'A]C, BЫ\[П'И]Л И T.П.
+02 025 04 COBПAДEHИE; HA MECTE E И HA MECTE И [И] И/ИЛИ [Ь]: BЫ\[H'И]C, BЫ\[П'И]Л И T.П. И/ИЛИ BЫ\[H'Ь]C, BЫ\[П'Ь]Л И T.П.
+02 025 05 COBПAДEHИE; HA MECTE E И HA MECTE И [E]: BЫ\[H'E]C, BЫ\[П'E]Л И T.П.
+02 025 06 COBПAДEHИE; HA MECTE E И HA MECTE И [A]: BЫ\[H'A]C, BЫ\[П'A]Л И T.П.
+02 025 07 KPOME COBПAДEHИЯ, OTMEЧEHO HA MECTE E - [E]
+02 025 08 KPOME COBПAДEHИЯ, OTMEЧEHO HA MECTE И - [E]
+02 025 09 KPOME COBПAДEHИЯ, OTMEЧEHO HA MECTE E - [A]
+02 025 10 KPOME COBПAДEHИЯ, OTMEЧEHO HA MECTE И - [A]
+02 025 11 KPOME COBПAДEHИЯ, OTMEЧEHO HA MECTE E - [O]

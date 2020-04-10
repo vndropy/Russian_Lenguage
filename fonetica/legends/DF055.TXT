@@ -1,0 +1,6 @@
+02 055 01 B COOTBETCTBИИ C <Ф> [XB], B COOTBETCTBИИ C <Ф'> [XB']: [XB]APTУK, [XB]OPMA И T.П. , KOH[XB']ETЫ И T.П.
+02 055 02 B COOTBETCTBИИ C <Ф> [XB]: [XB]APTУK, [XB]OPMA И T.П.
+02 055 03 B COOTBETCTBИИ C <Ф'> [XB']: KOH[XB']ETЫ И T.П.
+02 055 04 B COOTBETCTBИИ C <Ф> [X], B COOTBETCTBИИ C <Ф'> [X']: [XB]APTУK, [XB]OPMA И T.П.[X] , KOH[XB']ETЫ И T.П.[X']
+02 055 05 B COOTBETCTBИИ C <Ф> [X]: [XB]APTУK, [XB]OPMA И T.П.[X]
+02 055 06 B COOTBETCTBИИ C <Ф'> [X'X]: KOH[XB']ETЫ И T.П.

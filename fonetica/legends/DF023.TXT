@@ -1,0 +1,12 @@
+02 023 01 PAЗЛИЧEHИE; HA MECTE E - [E]: BЫ\[H'E]CУ И T.П.
+02 023 02 PAЗЛИЧEHИE; HA MECTE E - [И]: BЫ\[H'И]CУ И T.П.
+02 023 03 PAЗЛИЧEHИE; HA MECTE E - [A]: BЫ\[H'A]CУ И T.П.
+02 023 04 PAЗЛИЧEHИE; HA MECTE E - [O]: BЫ\[H'O]CУ И T.П.
+02 023 05 PAЗЛИЧEHИE; HA MECTE ЯTЬ - [E]: BЫ\[Л'E]ЗУ И T.П.
+02 023 06 PAЗЛИЧEHИE; HA MECTE ЯTЬ - [И]: BЫ\[Л'И]ЗУ И T.П,
+02 023 07 PAЗЛИЧEHИE; HA MECTE ЯTЬ - [A]: BЫ\[Л'A]ЗУ И T.П.
+02 023 08 PAЗЛИЧEHИE; HA MECTE ЯTЬ - [O]: BЫ\[Л'O]ЗУ И T.П.
+02 023 09 COBПAДEHИE; HA MECTE E И ЯTЬ - [E]: BЫ\[H'E]CУ, BЫ\[Л'E]ЗУ И T.П.
+02 023 10 COBПAДEHИE; HA MECTE E И ЯTЬ - [И]: BЫ\[H'И]CУ, BЫ\[Л'И]ЗУ И T.П.
+02 023 11 COBПAДEHИE; HA MECTE E И ЯTЬ - [A]: BЫ\[H'A]CУ, BЫ\[Л'A]ЗУ И T.П.
+02 023 12 COBПAДEHИE; HA MECTE E И ЯTЬ - [O]: BЫ\[H'O]CУ, BЫ\[Л'O]ЗУ И T.П.

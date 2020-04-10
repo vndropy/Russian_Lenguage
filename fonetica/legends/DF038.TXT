@@ -1,0 +1,7 @@
+02 038 01 [E\] B KOPHE: БE[P'E\]ЗA, C[B'E\]KЛA И T.П.
+02 038 02 [E\] B KOPHE: БE[P'E\]ЗA, C[B'E\]KЛA И T.П. B EДИHИЧHЫX CЛУЧAЯX
+02 038 03 [E\] B CУФФИKCAX: KO[T'E\]HOK, CO[Л'E\]HЫЙ И T.П.
+02 038 04 [E\] B CУФФИKCAX: KO[T'E\]HOK, CO[Л'E\]HЫЙ И T.П. B EДИHИЧHЫX CЛУЧAЯX
+02 038 05 [E\] B CTAPOM COЧETAHИИ *=TЬRT=: [M'E\PЗ]ЛA, ЧET[B'E\PT]ЫЙ И T.П.
+02 038 06 [E\] ПEPEД ШИПЯЩИMИ: B CЛOBE ЛE[П'E\]ШKA
+02 038 07 [E\] ПEPEД ШИПЯЩИMИ: B CЛOBE O[Д'E\]ЖA

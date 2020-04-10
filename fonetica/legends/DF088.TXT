@@ -1,0 +1,10 @@
+02 088 01 [X] ПEPEД [K],[П],[T]: [X] KOMУ,[X] ПOПУ, [X] TOMУ И T.П.
+02 088 02 [X] ПEPEД [K]: [X] KOMУ, [X] KOЗE И T.П.
+02 088 03 [X] ПEPEД [П]: [X] ПOПУ, [X] ПAPHЮ И T.П.
+02 088 04 [X] ПEPEД [T]: [X] TOMУ, [X] TOBAPИЩУ И T.П.
+02 088 05 [T] ПEPEД [K]: [X] KOMУ, [X] KOЗE И T.П.[T]
+02 088 06 [T] ПEPEД [П]: [X] ПOПУ, [X] ПAPHЮ И T.П.[T]
+02 088 07 [Ф] ПEPEД [K]: [X] KOMУ, [X] KOЗE И T.П.[Ф]
+02 088 08 ПEPEД [П]: [X] ПOПУ, [X] ПAPHЮ И T.П.[Ф]
+02 088 09 [Ф] ПEPEД [T]: [X] TOMУ, [X] TOBAPИЩУ И T.П.[Ф]
+02 088 10 [X] ПEPEД ФPИKATИBHЫMИ И/ИЛИ COHOPHЫMИ COГЛACHЫMИ И/ИЛИ ГЛACHЫMИ: [X] CEБE И/ИЛИ [X] HAM И/ИЛИ [X] OДHOЙ И T.П.

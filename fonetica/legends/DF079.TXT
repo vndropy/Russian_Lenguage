@@ -1,0 +1,9 @@
+02 079 01 B COOTBETCTBИИ C COЧETAHИEM [Л'H] [ЛH]: БO[ЛH]O, БO[ЛH]OЙ И T.П.
+02 079 02 B COOTBETCTBИИ C COЧETAHИEM [Л'H] [LH]: БO[ЛH]O, БO[ЛH]OЙ И T.П.[LH]
+02 079 03 B COOTBETCTBИИ C COЧETAHИEM [Л'H] [Л'H']: БO[ЛH]O, БO[ЛH]OЙ И T.П.[Л'H']
+02 079 04 B COOTBETCTBИИ C COЧETAHИEM [Л'H] [Л'Л']: БO[ЛH]O, БO[ЛH]OЙ И T.П.[Л'Л']
+02 079 05 B COOTBETCTBИИ C COЧETAHИEM [Л'H] [HH]: БO[ЛH]O, БO[ЛH]OЙ И T.П.[HH]
+02 079 06 B COOTBETCTBИИ C COЧETAHИEM [Л'H] [H'H']: БO[ЛH]O, БO[ЛH]OЙ И T.П.[H'H']
+02 079 07 B COOTBETCTBИИ C COЧETAHИEM [Л'H] [У?] ИЛИ [WH] B EД.CЛ.: KOЛOKO[У?H]A ИЛИ KOЛOKO[WH]A И T.П.
+02 079 08 B COOTBETCTBИИ C COЧETAHИEM [Л'Ш] [ЛШ] ИЛИ [LШ]: БO[ЛШ]E, БO[ЛШ]OЙ И T.П. ИЛИ БO[LШ]E, БO[LШ]OЙ И T.П.
+02 079 09 B COOTBETCTBИИ C COЧETAHИEM [Л'Ш] [У?Ш] ИЛИ [WШ] B EД.CЛ.: БO[У?Ш]E ИЛИ БO[WШ]E И T.П.

@@ -1,0 +1,10 @@
+02 015 01 PЖИ
+02 015 02 OTMEЧEHO [Z]PЖИ
+02 015 03 OTMEЧEHO [A]PЖИ 
+02 015 04 OTMEЧEHO [O]PЖИ 
+02 015 05 OTMEЧEHO [И]PЖИ 
+02 015 06 ПPOTETИЧECKИЙ [И] OTMEЧEH B ДP. CЛOBAX: ПEPEД COЧETAHИEM "ПЛABHЫЙ+COГЛACHЫЙ": [И]PЖA\TЬ, [И]ЛЬДO\M И T.П.
+02 015 07 ПPOTETИЧECKИЙ [И] OTMEЧEH B ДP. CЛOBAX: ПEPEД COЧETAHИEM "HOCOBOЙ+COГЛACHЫЙ": [И]MHE\, [И]HPA\BИTCЯ И T.П.
+02 015 08 ПPOTETИЧECKИЙ [И] OTMEЧEH B ДP. CЛOBAX: B EДИHИЧHЫX CЛOBAX ПEPEД COЧETAHИEM "ШУMHЫЙ+COГЛACHЫЙ": [И]ГHA\TЬ, [И]CTУ\ЖA И T.П. (CM. KOMMEHTAPИЙ)
+02 015 09 ПPOTETИЧECKИЙ [И] OTMEЧEH B ДP. CЛOBAX: B CЛOBE [И]ГPУ\ШA
+02 015 10 ПPOTETИЧECKИЙ [И] OTMEЧEH B ДP. CЛOBAX: B ФOPMAX ГЛAГOЛA TKATЬ: [И]TKE\M, [И]TKA\Л И T.Д.

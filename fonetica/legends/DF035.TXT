@@ -1,0 +1,12 @@
+02 035 01 [A]: [A]ДHOГO\, [A]TOПPИ\ И T.П.
+02 035 02 [Z]: [Z]ДHOГO\, [Z]TOПPИ\ И T.П. 
+02 035 03 [O]: [O]ДHOГO\, [O]TOПPИ\ И T.П. 
+02 035 04 [У]: [У]ДHOГO\, [У]TOПPИ\ И T.П. 
+02 035 05 [И]: [И]ДHOГO\, [И]TOПPИ\ И T.П. 
+02 035 06 OTCУTCTBИE ГЛACHOГO: ДHOГO\, TOПPИ\ И T.П.
+02 035 07 OTCУTCTBИE ГЛACHOГO: ДHOГO\, TOПPИ\ И T.П. TOЛЬKO ПOCЛE ГЛACHOГO ПPEДШECTBУЮЩEГO CЛOBA
+02 035 08 [A]: [A]ДHOГO\, [A]TOПPИ\ И T.П. B EДИHИЧHЫX CЛУЧAЯX
+02 035 09 [Z]: [Z]ДHOГO\, [Z]TOПPИ\ И T.П. B EДИHИЧHЫX CЛУЧAЯX
+02 035 10 [О]: [O]ДHOГO\, [O]TOПPИ\ И T.П. B EДИHИЧHЫX CЛУЧAЯX
+02 035 11 [У]: [У]ДHOГO\, [У]TOПPИ\ И T.П. B EДИHИЧHЫX CЛУЧAЯX
+02 035 12 [И]: [И]ДHOГO\, [И]TOПPИ\ И T.П. B EДИHИЧHЫX CЛУЧAЯX

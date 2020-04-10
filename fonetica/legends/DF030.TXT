@@ -1,0 +1,5 @@
+02 030 01 [E]: ПO\[Л'E], BOCKPECE\H[JE] И T.П.
+02 030 02 [O]: ПO\[Л'O], BOCKPECE\H[JO] И T.П.
+02 030 03 [A]: ПO\[Л'A], BOCKPECE\H[JA] И T.П.
+02 030 04 [И]: ПO\[Л'И], BOCKPECE\H[JИ] И T.П.
+02 030 05 [Ь]: ПO\[Л'Ь], BOCKPECE\H[JЬ] И T.П.

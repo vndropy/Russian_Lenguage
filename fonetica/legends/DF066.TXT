@@ -1,0 +1,7 @@
+02 066 01 [K'] ПOCЛE ПAPHЫX MЯГKИX: BA\HЬ[K'A], PE\ДЬ[K'A] И T.П.
+02 066 02 [K'] ПOCЛE ПAPHЫX MЯГKИX: BA\HЬ[K'A], PE\ДЬ[K'A] И T.П. B EДИHИЧHЫX CЛУЧAЯX
+02 066 03 [K'] ПOCЛE ЗBУKOB, BЫCTУПAЮЩИX HA MECTE ЭTИMOЛOГИЧECKOГO Ч: ДO\Ч[K'A], ДE\BOЧ[K'A] И T.П.
+02 066 04 [K'] ПOCЛE ЗBУKOB, BЫCTУПAЮЩИX HA MECTE ЭTИMOЛOГИЧECKOГO Ч: ДO\Ч[K'A], ДE\BOЧ[K'A] И T.П. B EДИHИЧHЫX CЛУЧAЯX
+02 066 05 [K'] ПOCЛE J: ЧAЙ[K'У\], KOПE\Й[K'A] И T.П.
+02 066 06 [K'] ПOCЛE Ш: KO\Ш[K'A], ЧA\Ш[K'A] И T.П.
+02 066 07 [K'] ПOCЛE ПAPHЫX TBEPДЫX: MA\M[K'A], ЛИ\Д[K'A] И T.П.

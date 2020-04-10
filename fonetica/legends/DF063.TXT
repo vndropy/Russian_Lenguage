@@ -1,0 +1,9 @@
+02 063 01 MЯГKИE (ПOЛУMЯГKИE) ЗBУKИ Ш', Ш., Ш'/C', З' И T.Д.: [Ш']A\ПKA, [Ж.]ИP, [Ш'/C']УM, CИ[З']У\ И T.П.
+02 063 02 ПPИBEДEHO HE MEHEE 10 ПPИMEPOB C MЯГKИMИ (ПOЛУMЯГKИMИ) ЗBУKAMИ
+02 063 03 MЯГKИE (ПOЛУMЯГKИE) ЗBУKИ OTMEЧEHЫ TOЛЬKO ИЛИ ПPEИMУЩECTBEHHO ПEPEД ПAPHЫMИ MЯГKИMИ COГЛACHЫMИ И [J] : CAПO\[Ж.H']ИK, [Ш'J]ET И T.П.
+02 063 04 MЯГKИE (ПOЛУMЯГKИE) ЗBУKИ OTMEЧEHЫ TOЛЬKO ПEPEД ПAPHЫMИ MЯГKИMИ COГЛACHЫMИ И [J] ПPИ MAЛOM KOЛИЧECTBE ПPИMEPOB (2 - 3)
+02 063 05 MЯГKИE (ПOЛУMЯГKИE) ЗBУKИ OTMEЧEHЫ TOЛЬKO ИЛИ ПPEИMУЩECTBEHHO ПEPEД ГЛACHЫMИ ПEPEДHEГO PЯДA: [Ж'И]TЬ, [Ш.E\]Я И T.П.
+02 063 06 MЯГKИE (ПOЛУMЯГKИE) ЗBУKИ OTMEЧEHЫ TOЛЬKO ПEPEД ГЛACHЫMИ ПEPEДHEГO PЯДA ПPИ MAЛOM KOЛИЧECTBE ПPИMEPOB (2-3)
+02 063 07 MЯГKИE (ПOЛУMЯГKИE) ЗBУKИ OTMEЧEHЫ TOЛЬKO ИЛИ ПPEИMУЩECTBEHHO ПEPEД ГЛACHЫMИ ПEPEДHEГO PЯДA, ПAPHЫMИ MЯГKИMИ COГЛACHЫMИ И [J]
+02 063 08 MЯГKИE (ПOЛУMЯГKИE) ЗBУKИ OTMEЧEHЫ TOЛЬKO ПEPEД ГЛACHЫMИ ПEPEДHEГO PЯДA, ПAPHЫMИ MЯГKИMИ COГЛACHЫMИ И [J] ПPИ MAЛOM KOЛИЧECTBE ПPИMEPOB
+02 063 09 MЯГKИE ШИПЯЩИE OTMEЧEHЫ TOЛЬKO ПEPEД CУФФИKCAMИ =EЧK=, =ИЧEK=, =EЧЙ= : ЧA\[Ш']EЧKA, HO\[Ж']ИЧEK, CTAPУ\[Ш']EЧЬЯ И T.П.

@@ -1,0 +1,10 @@
+02 016 01 [Z]: B ГO\P[Z]ДE, XO\Л[Z]ДHO И T.П.
+02 016 02 [Z]: B ГO\P[Z]ДE, XO\Л[Z]ДHO И T.П. B EДИHИЧHЫX CЛУЧAЯX
+02 016 03 [A]: B ГO\P[A]ДE, XO\Л[A]ДHO И T.П.
+02 016 04 [A]: B ГO\P[A]ДE, XO\Л[A]ДHO И T.П. B EДИHИЧHЫX CЛУЧAЯX
+02 016 05 [Ы]: B ГO\P[Ы]ДE, XO\Л[Ы]ДHO И T.П. 
+02 016 06 [Ы]: B ГO\P[Ы]ДE, XO\Л[Ы]ДHO И T.П. B EДИHИЧHЫX CЛУЧAЯX 
+02 016 07 [O]: B ГO\P[O]ДE, XO\Л[O]ДHO И T.П. 
+02 016 08 [O]: B ГO\P[O]ДE, XO\Л[O]ДHO И T.П. B EДИHИЧHЫX CЛУЧAЯX
+02 016 09 [O^] ИЛИ [У] B EДИHИЧHЫX CЛУЧAЯX
+02 016 10 OTMEЧEHЫ CЛУЧAИ PEДУKЦИИ ГЛACHЫX ДO HУЛЯ

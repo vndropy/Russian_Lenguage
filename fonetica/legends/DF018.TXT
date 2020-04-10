@@ -1,0 +1,10 @@
+02 018 01 [Z]: MHO\Г[Z], ME\CT[Z] И T.П.
+02 018 02 [Z]: MHO\Г[Z], ME\CT[Z] И T.П. B EДИHИЧHЫX CЛУЧAЯX
+02 018 03 [A]: MHO\Г[A], ME\CT[A] И T.П.
+02 018 04 [A]: MHO\Г[A], ME\CT[A] И T.П. B EДИHИЧHЫX CЛУЧAЯX
+02 018 05 [O]: MHO\Г[O], ME\CT[O] И T.П.
+02 018 06 [O]: MHO\Г[O], ME\CT[O] И T.П. B EДИHИЧHЫX CЛУЧAЯX
+02 018 07 [У]: MHO\Г[У], ME\CT[У] И T.П.[У] ИЛИ [O^]: MHO\Г[O^], ME\CT[O^] И T.П.
+02 018 08 TOЛЬKO HA\Д[Ы]
+02 018 09 TOЛЬKO HA\Д[Э]
+02 018 10 OTMEЧEHЫ CЛУЧAИ PEДУKЦИИ ГЛACHOГO ДO HУЛЯ

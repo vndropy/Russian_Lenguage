@@ -1,0 +1,6 @@
+02 078 01 [HC]K: ЖE\[HC]KAЯ, ДEPEBE\[HC]KИE И T.П.
+02 078 02 [H'C]K: ЖE\[H'C]KAЯ, ДEPEBE\[H'C]KИE И T.П.
+02 078 03 [H'C'K]: ЖE\[H'C'K]AЯ, ДEPEBE\[H'C'K]AЯ И T.П.
+02 078 04 [H'C'K']: ЖE\[H'C'K']ИE, ДEPEBE\[H'C'K']ИE И T.П.
+02 078 05 [HC'K]: ЖE\[HC'K]AЯ, ДEPEBE\[HC'K]AЯ И T.П.
+02 078 06 [HC'K']: ЖE\[HC'K']ИE, ДEPEBE\[HC'K']ИE И T.П.

@@ -1,0 +1,6 @@
+02 060 01 ПPOTETИЧECKИЙ [B] ПEPEД УДAPEHHЫMИ [O] И [У] : [BO\]KHA, [BO\]CEHЬ И T.П. [BУ\]TKA, [BУ\]ЧИT И T.П.
+02 060 02 ПPOTETИЧECKИЙ [B] ПEPEД УДAPEHHЫMИ [O] И [У] : [BO\]KHA, [BO\]CEHЬ И T.П. [BУ\]TKA, [BУ\]ЧИT И T.П. B EДИHИЧHЫX CЛУЧAЯX
+02 060 03 TOЛЬKO [BO\]CЫ
+02 060 04 TOЛЬKO [BO\]CПA
+02 060 05 OTCУTCTBИE ПPOTETИЧECKOГO [B] ПEPEД УДAPEHHЫMИ [O] И [У]: [O\]KHA, [O\]CEHЬ ИT.П., [У\]TKA, [У\]ЧИT И T.П.
+02 060 06 OTCУTCTBИE ПPOTETИЧECKOГO [B] ПEPEД УДAPEHHЫMИ [O] И [У]: [O\]KHA, [O\]CEHЬ ИT.П., [У\]TKA, [У\]ЧИT И T.П. B EДИHИЧHЫX CЛУЧAЯX

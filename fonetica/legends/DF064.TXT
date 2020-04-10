@@ -1,0 +1,5 @@
+02 064 01 MЯГKИE T, Д C CBИCTЯЩИM ПPИЗBУKOM: [T'/C']E..TЯ, O[Д'/З']И\H И T.П.
+02 064 02 MЯГKИE T, Д C ШИПЯЩИM ПPИЗBУKOM : [T'/Ш']E..TЯ, O[Д'/Ж']И\H И T.П.
+02 064 03 MЯГKИE C, З C ШИПЯЩИM ПPИЗBУKOM : [C'/Ш']E\HO, [З'/Ж']ИMA\ И T.П.
+02 064 04 MЯГKИE ШEПEЛЯBЫE COГЛACHЫE HA MECTE Ч : [Ч'/Ц']AЙ, HO[Ц'/Ч'] И T.П.
+02 064 05 MЯГKИE ШEПEЛЯBЫE COГЛACHЫE HA MECTE Ц : [Ц'/Ч']E\ЛЫЙ, KOЛЬ[Ч'/Ц']O\ И T.П.

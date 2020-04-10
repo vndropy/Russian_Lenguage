@@ -1,0 +1,4 @@
+02 027 01 [E]: KA\M[H'E]M, CAPA\[JE]B И T.П.
+02 027 02 [O]: KA\M[H'O]M, CAPA\[JO]B И T.П.
+02 027 03 [A]: KA\M[H'A]M, CAPA\[JA]B И T.П.
+02 027 04 [И] И/ИЛИ [Ь]: KA\M[H'И]M,CAPA\[(J)И]B И T.П. И/ИЛИ KA\M[H'Ь]M, CAPA\[(J)Ь]B И T.П.

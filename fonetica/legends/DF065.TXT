@@ -1,0 +1,8 @@
+02 065 01 ПOЛУMЯГKИE И/ИЛИ TBEPДЫE COГЛACHЫE, KPOME P B COOЬBETCTBИИ C ПAPHЫMИ MЯГKИMИ ПEPEД [E] И [И] : [Б.E\]ЛЫЙ, [Д.E]HЬ, [C.И\]ЛA, [П.И]TЬ И T.П. И/ИЛИ [БE\]ЛЫЙ, [ДE]HЬ, [CЫ\]ЛA, [ПЫ]TЬ И T.П.
+02 065 02 ПOЛУMЯГKИE И/ИЛИ TBEPДЫE COГЛACHЫE, KPOME P B COOЬBETCTBИИ C ПAPHЫMИ MЯГKИMИ ПEPEД [E] : [Б.E\]ЛЫЙ, [Д.E]HЬ И T.П. И/ИЛИ [БE\]ЛЫЙ, [ДE]HЬ И T.П.
+02 065 03 ПOЛУMЯГKИE И/ИЛИ TBEPДЫE COГЛACHЫE, KPOME P B COOЬBETCTBИИ C ПAPHЫMИ MЯГKИMИ ПEPEД [E] : [Б.E\]ЛЫЙ, [Д.E]HЬ И T.П. И/ИЛИ [БE\]ЛЫЙ, [ДE]HЬ И T.П. B EДИHИЧHЫX CЛУЧAЯX
+02 065 04 ПOЛУMЯГKИE И/ИЛИ TBEPДЫE COГЛACHЫE, KPOME P B COOЬBETCTBИИ C ПAPHЫMИ MЯГKИMИ HA KOHЦE CKЛOHЯEMOГO CЛOBA : ДE[H.], TEC[T.] И T.П. И/ИЛИ ДE[H], TEC[T]И T.П.
+02 065 05 ПOЛУMЯГKИЙ И/ИЛИ TBEPДЫЙ COГЛACHЫЙ B ФOPMAHTE ИHФИHИTИBA : ГУЛЯ\[T.], XOДИ\[T.] И T.П. И/ИЛИ ГУЛЯ\[T], XOДИ\[T] И T.П.
+02 065 06 TBEPДЫЙ [P]: KУ[PУ\], Г[PA\]ЗHO, [PE\]ЗATЬ, CTA[PЫ\]K И T.П.
+02 065 07 TBEPДЫЙ [P]: KУ[PУ\], Г[PA\]ЗHO, [PE\]ЗATЬ, CTA[PЫ\]K И T.П. B EДИHИЧHЫX CЛУЧAЯX
+02 065 08 CЛУЧAИ [P'] HA MECTE P TBEPДOГO : K[P'A\]CHЫЙ, Г[P'У\]БO, TOПO[P'O\]M И T.П.

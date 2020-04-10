@@ -1,0 +1,7 @@
+02 054 01 [XB] И/ИЛИ [X] - [XB'] И/ИЛИ [X']: [XB]APTУK, [XB]OPMA И T.П. И/ИЛИ [XB]APTУK, [XB]OPMA И T.П.[X] , KO[X]TA, TИ[X] И T.П. - [XB']ИЛИПП, KOH[XB']ETЫ И T.П. И/ИЛИ [XB']ИЛИПП, KOH[XB']ETЫ И T.П.[X']
+02 054 02 [XB] И/ИЛИ [X] - [XB'] И/ИЛИ [X']: [XB]APTУK, [XB]OPMA И T.П. И/ИЛИ [XB]APTУK, [XB]OPMA И T.П.[X] , KO[X]TA, TИ[X] И T.П. - [XB']ИЛИПП, KOH[XB']ETЫ И T.П. И/ИЛИ [XB']ИЛИПП, KOH[XB']ETЫ И T.П.[X'] B EД.CЛУЧ.
+02 054 03 [Ф] - [Ф']: [XB]APTУK, [XB]OPMA И T.П.[Ф] , [XB']ИЛИПП, KOH[XB']ETЫ И T.П.[Ф']
+02 054 04 [Ф] - [Ф']: [XB]APTУK, [XB]OPMA И T.П.[Ф] , [XB']ИЛИПП, KOH[XB']ETЫ И T.П.[Ф'] B EД.CЛ.
+02 054 05 [П] - [П'] OTMEЧEHO B ИMEHAX COБCTBEHHЫX: [П]POCЯ, HИKИ[П]OP И T.П. - [П']E..KЛA,[П']ИЛИПП И T.П.
+02 054 06 [П] - [П'] OTMEЧEHO B CЛOBAX: [П]УPA, [П]УPAЖKA, [П']ИKУC И ДP.
+02 054 07 B COOTBETCTBИИ C COЧETAHИEM XB OTMEЧEHO [Ф]: [Ф]OCT, [Ф]ACTATЬ И T.П.
